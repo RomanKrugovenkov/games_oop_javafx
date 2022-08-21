@@ -1,6 +1,6 @@
 package ru.job4j.chess.firuges.black;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import static org.assertj.core.api.Assertions.*;
 import ru.job4j.chess.firuges.Cell;
 import ru.job4j.chess.firuges.Figure;
